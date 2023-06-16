@@ -15,3 +15,4 @@ if placeId == 12602215983 then
    print("Executing script for Blue Heat")
  loadstring(game:HttpGet("https://raw.githubusercontent.com/COMETASD/COMET-HUB/main/BlueHeater",true))();
 end
+adawd
