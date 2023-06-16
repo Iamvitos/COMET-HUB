@@ -3,7 +3,7 @@ local placeId = game.PlaceId
 if placeId == 12602209860 then
    -- Your script here
    print("Executing script for Blue Heat")
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/COMETASD/COMET-HUB/main/BlueHeater?token=GHSAT0AAAAAACD7YRYAINM24ZH4LFXQKO2CZEMEX4Q",true))();
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/COMETASD/COMET-HUB/main/BlueHeater",true))();
 end 
 if placeId == 12602213040 then
    -- Code to run if the Place ID doesn't match
